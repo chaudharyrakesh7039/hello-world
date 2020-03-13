@@ -1,2 +1,5 @@
 # hello-world
-hi i am rakesh
+hi human
+
+Rakesh here. i am using github.com 
+i wish i learn.
